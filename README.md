@@ -1,5 +1,5 @@
-## Hi there, I am Subramanya Ganesh 👋
 
+<h1 align="left">Hi there, I am Subramanya Ganesh <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> </h1>
 <!--
 **subramanyaganesh/subramanyaganesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
